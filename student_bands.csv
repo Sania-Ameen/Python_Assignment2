@@ -1,0 +1,4 @@
+grade_band,total_number_of_students,average_number_of_students,percentage_of_student_with_internet_access
+Low (0 to 9),85,5.423529411764706,70.58823529411765
+Medium (10-14),418,3.715311004784689,76.07655502392345
+High (15 and above),131,2.7557251908396947,85.49618320610686
